@@ -3,7 +3,7 @@
 // @namespace    Hitwicket+ Beta
 // @version      1.0
 // @description  Adds additional functionalities to Hitwicket
-// @exclude      http://hitwicket.com/session/*
+// @include      http://hitwicket.com/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.6.0/moment.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js
 // @copyright    akshay9
